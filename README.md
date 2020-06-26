@@ -4,6 +4,7 @@
 
 # SQL
 Душан Петкович - Microsoft SQL Server - 2012
+
 Бен Форт - Освой SQL самостоятельно - 2014
 
 # Patterns/Refactoring
