@@ -1,5 +1,8 @@
 # ProgrammingBooks
 
+# C#/.NET Core
+Марк Дж. Прайс - C# 7 и .NET Core. Кросс-платформенная разработка для профессионалов. 2018
+
 # React.js
 
 # SQL
