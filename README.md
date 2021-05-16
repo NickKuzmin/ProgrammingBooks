@@ -24,3 +24,9 @@ NoSQL. Методология разработки нереляционных б
 
 # Unit-testing
 Искусство автономного тестирования с примерами на С# | Ошероув Рой, 2014
+
+-------------------------------------------------------------
+Книги для прочтения:
+Stephen Cleary - Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
+
+Ringler R. - C# Multithreaded and Parallel Programming
