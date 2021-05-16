@@ -31,6 +31,8 @@
 # Книги для прочтения:
 Patni S. - Pro RESTful APIs: Design, Build and Integrate with REST, JSON, XML and JAX-RS
 
+Для профессионалов - Арораа Г., Чилберто Дж. - Паттерны проектирования для C# и платформы .NET Core
+
 Клири Стивен - Конкурентность в C#. Асинхронное, параллельное программирование (Для профессионалов)  - 2020
 Stephen Cleary - Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
 
