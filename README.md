@@ -9,6 +9,7 @@
 
 # Java Script
 - Профессиональный TypeScript. Разработка масштабируемых JavaScript-приложений | Черный Борис, 2021
+- Knockout.js. Building Dynamic Client-Side Web Applications | Jamie Munro, 2014
 
 # DataBases & SQL
 - Microsoft SQL Server | Душан Петкович, 2012
@@ -30,6 +31,9 @@
 # Книги для прочтения:
 Patni S. - Pro RESTful APIs: Design, Build and Integrate with REST, JSON, XML and JAX-RS
 
+Клири Стивен - Конкурентность в C#. Асинхронное, параллельное программирование (Для профессионалов)  - 2020
 Stephen Cleary - Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming
 
 Ringler R. - C# Multithreaded and Parallel Programming
+
+Симан М. - Внедрение зависимостей в .NET - 2014
