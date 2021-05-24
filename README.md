@@ -1,4 +1,4 @@
-# ProgrammingBooks
+# PROGRESS:
 
 # C#/.NET Core
 - C# 7 и .NET Core. Кросс-платформенная разработка для профессионалов | Марк Дж. Прайс, 2018
@@ -41,3 +41,5 @@ Stephen Cleary - Concurrency in C# Cookbook: Asynchronous, Parallel, and Multith
 Ringler R. - C# Multithreaded and Parallel Programming
 
 Симан М. - Внедрение зависимостей в .NET - 2014
+
+Эванс Э. - Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем
